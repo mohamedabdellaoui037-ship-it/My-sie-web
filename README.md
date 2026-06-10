@@ -1,2 +1,2 @@
 # My-sie-web
-My personal religious website
+My personal website
